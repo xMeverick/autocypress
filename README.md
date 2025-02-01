@@ -1,4 +1,4 @@
-node.js must be installed
+node.js add to path must be installed , VScode installed
 
 
 
